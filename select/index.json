@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "NERDY",
+  "base_artist": "ifeye",
+  "createdAt": "2026-03-23T18:37:33.242505Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "White & Nerdy",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": false,
+      "path": "select/01_White_&_Nerdy_Weird_Al__Yankovic.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "White and Nerdy",
+      "artist": "Weird Al Yankovic",
+      "has_synced": false,
+      "path": "select/02_White_and_Nerdy_Weird_Al_Yankovic.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "White & Nerdy",
+      "artist": "'Weird Al' Yankovic",
+      "has_synced": false,
+      "path": "select/03_White_&_Nerdy_'Weird_Al'_Yankovic.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "White & Nerdy",
+      "artist": "Weird Al Yankovic",
+      "has_synced": false,
+      "path": "select/04_White_&_Nerdy_Weird_Al_Yankovic.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nerdy",
+      "artist": "PURPLE KISS",
+      "has_synced": true,
+      "path": "select/05_Nerdy_PURPLE_KISS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "White & Nerdy (Parody of \"Ridin'\" by Chamillionaire featuring Krayzie Bone)",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/06_White_&_Nerdy_(Parody_of__Ridin'__by_Chamillionaire_featuring_Krayzie_Bone)_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "White & Nerdy (Parody Of \"Ridin'\" By Chamillionaire Feat. Krayzie Bone)",
+      "artist": "Weird Al Yankovic",
+      "has_synced": true,
+      "path": "select/07_White_&_Nerdy_(Parody_Of__Ridin'__By_Chamillionaire_Feat._Krayzie_Bone)_Weird_Al_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "White & Nerdy (Parody Of \"Ridin'\" By Chamillionaire Featuring Krayzie Bone)",
+      "artist": "Weird Al Yankovic",
+      "has_synced": true,
+      "path": "select/08_White_&_Nerdy_(Parody_Of__Ridin'__By_Chamillionaire_Featuring_Krayzie_Bone)_Weird_Al_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "White & Nerdy (Parody of \"Ridin'\" by Chamillionaire feat. Krayzie Bone)",
+      "artist": "Weird Al Yankovic",
+      "has_synced": true,
+      "path": "select/09_White_&_Nerdy_(Parody_of__Ridin'__by_Chamillionaire_feat._Krayzie_Bone)_Weird_Al_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "White & Nerdy",
+      "artist": "“Weird Al” Yankovic",
+      "has_synced": true,
+      "path": "select/10_White_&_Nerdy_“Weird_Al”_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "White & Nerdy (Parody of \"Ridin'\" by Chamillionaire featuring Krayzie Bone)",
+      "artist": "“Weird Al” Yankovic",
+      "has_synced": true,
+      "path": "select/11_White_&_Nerdy_(Parody_of__Ridin'__by_Chamillionaire_featuring_Krayzie_Bone)_“Weird_Al”_Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nerdy",
+      "artist": "Poison the Well",
+      "has_synced": true,
+      "path": "select/12_Nerdy_Poison_the_Well.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nerdy",
+      "artist": "Purple Kiss",
+      "has_synced": true,
+      "path": "select/13_Nerdy_Purple_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "White & Nerdy (Parody of \"Ridin'\")",
+      "artist": "\"Weird Al\" Yankovic",
+      "has_synced": true,
+      "path": "select/14_White_&_Nerdy_(Parody_of__Ridin'_)_Weird_Al__Yankovic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "White & Nerdy",
+      "artist": "Weird Al Yankovic",
+      "has_synced": true,
+      "path": "select/15_White_&_Nerdy_Weird_Al_Yankovic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NERDY",
+      "artist": "ifeye",
+      "has_synced": false,
+      "path": "select/pl_01_NERDY_ifeye.txt"
+    }
+  ]
+}
