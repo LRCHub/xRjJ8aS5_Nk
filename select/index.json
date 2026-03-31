@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "NERDY",
   "base_artist": "ifeye",
-  "createdAt": "2026-03-23T18:38:38.871216Z",
+  "createdAt": "2026-03-31T21:50:06.648151Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "ifeye",
       "has_synced": false,
       "path": "select/pl_01_NERDY_ifeye.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "NERDY",
+      "artist": "ifeye",
+      "has_synced": false,
+      "path": "select/localdb_01_NERDY_ifeye.txt",
+      "repo_name": "xRjJ8aS5_Nk"
     }
   ]
 }
